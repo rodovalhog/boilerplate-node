@@ -1,0 +1,13 @@
+{
+    "[typescriptreact]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true 
+    },
+    "turboConsoleLog.includeFileNameAndLineNum": false,
+    "turboConsoleLog.insertEnclosingClass": false,
+    "turboConsoleLog.insertEnclosingFunction": false,
+    "window.zoomLevel": 1
+  }
+  

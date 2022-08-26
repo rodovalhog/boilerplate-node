@@ -1,4 +1,9 @@
 {
+  "env": {
+    "node": true,
+    "es2019": true,
+    "jest": true
+    },
  "extends": "standard-with-typescript",
  "parserOptions": {
      "project": "./tsconfig.json"
